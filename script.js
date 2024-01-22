@@ -17,7 +17,7 @@ function multiply(a, b) {
   
   
 
-console.log(sayHello())  // should print "Hello, world!"
+console.log(greet())  // should print "Hello, world!"
 console.log(double(3)) // should print 6
 console.log(multiply(3, 7)) // should print 21
   
